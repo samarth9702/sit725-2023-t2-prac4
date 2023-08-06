@@ -1,0 +1,27 @@
+{
+  "name": "sit725-2023-t2-prac4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarth9702/sit725-2023-t2-prac4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samarth9702/sit725-2023-t2-prac4/issues"
+  },
+  "homepage": "https://github.com/samarth9702/sit725-2023-t2-prac4#readme"
+}
